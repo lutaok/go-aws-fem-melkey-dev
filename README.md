@@ -35,4 +35,4 @@ This project is just for testing Go and AWS integration so `Secrets` are in plai
 
 ## Credits
 
-Big thanks to [FrontEnd Masters](https://frontendmasters.com/) and [MelkeyDev](https://github.com/Melkeydev/) for this amazing course.
+Big thanks to [Frontend Masters](https://frontendmasters.com/) and [MelkeyDev](https://github.com/Melkeydev/) for this amazing course.
