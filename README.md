@@ -29,4 +29,10 @@ In the `/lambda` folder you can find the lambda function that will act as a REST
 - `/login`: where you can login and make the lambda assign you a JWT token that will identifiy the user in input
 - `/protected`: where you can send the retrieved JWT Token and can check if you have the rights to have a successful response from this endpoint
 
+## Known Issues
+
+This project is just for testing Go and AWS integration so `Secrets` are in plain text and tests are not present.
+
+## Credits
+
 Big thanks to [FrontEnd Masters](https://frontendmasters.com/) and [MelkeyDev](https://github.com/Melkeydev/) for this amazing course.
