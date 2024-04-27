@@ -6,6 +6,14 @@
 - AWS
 - CDK
 
+## AWS Infrastructure
+
+- CloudFormation
+- Lambda
+- DynamoDB
+- ApiGateway
+- CloudWatch
+
 ## CDK Usage
 
 This repo was created starting from a CDK template.
